@@ -1,3 +1,5 @@
 WIP
 
-[![Spiralyfox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spiralyfox)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Spiralyfox&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&theme=tokyonight)
