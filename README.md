@@ -29,33 +29,26 @@ Systèmes : Windows Server / Hébergement local
 
 ---
 
-## 📊 Statistiques GitHub
+## GitHub Analytics
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=a9b1d6&border_radius=12" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Spiralyfox&hide_border=true&background=1a1b27&stroke=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bf91f3&border_radius=12" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12&card_width=600" />
-    </td>
-  </tr>
-</table>
+<!-- ─── Stats principales ───────────────────────────── -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-<!-- ─── Graphique d'activité ───────────────────────────────── -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f7768e&area=true&hide_border=true" />
+<br><br>
 
-<!-- ─── Trophées ────────────────────────────────────────────── -->
-<img src="https://github-profile-trophy.vercel.app/?username=Spiralyfox&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" />
+<!-- ─── Activity Graph (version stable alternative) ───────────────── -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=0d1117&color=58a6ff&line=f778ba&point=c9d1d9&area=true&hide_border=true" />
+
+<br>
+
+<!-- ─── Snake animation (ULTRA utilisé en 2026) ───────────────── -->
+<img width="100%" src="https://raw.githubusercontent.com/Spiralyfox/Spiralyfox/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
 ---
 
 ## Contact
