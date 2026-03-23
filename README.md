@@ -60,11 +60,6 @@ Systèmes : Windows Server / Hébergement local
 <!-- ─── Activity Graph ───────────────────────────────────── -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" />
 
-<br><br>
-
-<!-- ─── Metrics (gros upgrade visuel) ───────────────────── -->
-<img src="https://metrics.lecoq.io/Spiralyfox?template=classic&config.timezone=Europe/Paris&config.display=large&languages=1&languages.limit=8&languages.colors=tokyonight&languages.threshold=0%&activity=1&activity.limit=5&activity.days=14&activity.filter=all&introduction=1&followup=1" />
-
 </div>
 
 ---
