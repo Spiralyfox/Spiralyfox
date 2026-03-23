@@ -33,28 +33,32 @@ Systèmes : Windows Server / Hébergement local
 
 <div align="center">
 
-<!-- ─── Stats principales ───────────────────────────── -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
+<!-- ─── Header clean ───────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Spiralyfox&fontColor=58a6ff&fontSize=40" />
+
+<br>
+
+<!-- ─── Badges stats simples (ultra stable) ───────────────── -->
+<img src="https://img.shields.io/github/followers/Spiralyfox?style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/Spiralyfox?style=for-the-badge&color=f778ba&labelColor=0d1117" />
 
 <br><br>
 
-<!-- ─── Activity Graph ───────────────────────────── -->
+<!-- ─── Tech stack (beaucoup + moderne que stats) ───────── -->
+<img src="https://skillicons.dev/icons?i=python,html,js,css,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<!-- ─── Activity graph (on garde car stable) ───────── -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=0d1117&color=58a6ff&line=f778ba&point=c9d1d9&area=true&hide_border=true" />
 
 <br><br>
 
-<!-- ─── Dashboard clean (remplace snake) ───────────────── -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spiralyfox&theme=github_dark" />
-
-<br>
-
-<!-- ─── Stats secondaires ───────────────── -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spiralyfox&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spiralyfox&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spiralyfox&theme=github_dark" />
+<!-- ─── Quote dynamique (remplace stats cassées) ───────── -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
+
 ---
 
 ## Contact
