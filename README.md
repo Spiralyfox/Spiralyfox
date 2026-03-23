@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="[https://media.discordapp.net/attachments/860441956257628160/1473602252768940120/Enkeli_Neptune_Glitch.png?ex=6996ce8b&is=69957d0b&hm=7ed2e14d26da06bd5ce748a30fdbd3ddbd6ee9212f377801d0e9144db7fb027c&=&format=webp&quality=lossless&width=1638&height=864](https://postimg.cc/MXKYSy78)" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/PJn6Bp3B/Enkeli-Neptune-Glitch.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Spiralyfox</h1>
