@@ -34,8 +34,8 @@ Systèmes : Windows Server / Hébergement local
 <div align="center">
 
 <!-- ─── Stats principales ───────────────────────────── -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" />
 
 <br><br>
 
@@ -44,18 +44,17 @@ Systèmes : Windows Server / Hébergement local
 
 <br><br>
 
-<!-- ─── Detailed Stats (remplace snake) ───────────────── -->
+<!-- ─── Dashboard clean (remplace snake) ───────────────── -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spiralyfox&theme=github_dark" />
 
 <br>
 
-<!-- ─── Extra cards (optionnel mais stylé) ───────────── -->
+<!-- ─── Stats secondaires ───────────────── -->
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spiralyfox&theme=github_dark" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spiralyfox&theme=github_dark" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spiralyfox&theme=github_dark" />
 
 </div>
-
 ---
 
 ## Contact
