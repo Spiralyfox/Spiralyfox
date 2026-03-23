@@ -29,53 +29,41 @@ Systèmes : Windows Server / Hébergement local
 
 ---
 
-## GitHub Analytics
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<!-- ─── Header ───────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Spiralyfox%20Analytics&fontColor=58a6ff&fontSize=35" />
-
-<br>
-
-<!-- ─── Badges principaux ───────────────── -->
-<img src="https://img.shields.io/github/followers/Spiralyfox?style=for-the-badge&color=58a6ff&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/Spiralyfox?style=for-the-badge&color=f778ba&labelColor=0d1117" />
-<img src="https://img.shields.io/github/last-commit/Spiralyfox/Spiralyfox?style=for-the-badge&color=79c0ff&labelColor=0d1117" />
+<!-- ─── Badges ───────────────────────────────────────────── -->
+<img src="https://komarev.com/ghpvc/?username=Spiralyfox&style=for-the-badge&color=7aa2f7" />
+<img src="https://img.shields.io/github/followers/Spiralyfox?style=for-the-badge&color=bb9af7" />
+<img src="https://img.shields.io/github/stars/Spiralyfox?affiliations=OWNER&style=for-the-badge&color=f7768e" />
 
 <br><br>
 
-<!-- ─── Activity Graph ───────────────── -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=0d1117&color=58a6ff&line=f778ba&point=c9d1d9&area=true&hide_border=true" />
+<!-- ─── Stats + Streak ───────────────────────────────────── -->
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&border_radius=12" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=Spiralyfox&hide_border=true&background=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bb9af7&border_radius=12" />
+</td>
+</tr>
+</table>
+
+<!-- ─── Langages ─────────────────────────────────────────── -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&border_radius=12&card_width=600" />
 
 <br><br>
 
-<!-- ─── Summary cards (ULTRA STABLE) ───────────────── -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spiralyfox&theme=github_dark" />
-
-<br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spiralyfox&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spiralyfox&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spiralyfox&theme=github_dark" />
+<!-- ─── Activity Graph ───────────────────────────────────── -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" />
 
 <br><br>
 
-<!-- ─── Streak alternative (plus stable) ───────────────── -->
-<img width="49%" src="https://streak-stats.demolab.com?user=Spiralyfox&theme=dark&hide_border=true&background=0d1117&ring=f778ba&fire=f778ba&currStreakLabel=58a6ff" />
-
-<!-- ─── Commits / repos insights ───────────────── -->
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Spiralyfox&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<br><br>
-
-<!-- ─── Metrics avancées (très stylé) ───────────────── -->
-<img width="100%" src="https://metrics.lecoq.io/Spiralyfox?template=classic&config.timezone=Europe/Paris&languages=1&isocalendar=1&habits=1&activity=1&lines=1&followup=1&achievements=1&introduction=1&repositories=1" />
-
-<br><br>
-
-<!-- ─── Dev quote (remplissage intelligent) ───────────────── -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<!-- ─── Metrics (gros upgrade visuel) ───────────────────── -->
+<img src="https://metrics.lecoq.io/Spiralyfox?template=classic&config.timezone=Europe/Paris&config.display=large&languages=1&languages.limit=8&languages.colors=tokyonight&languages.threshold=0%&activity=1&activity.limit=5&activity.days=14&activity.filter=all&introduction=1&followup=1" />
 
 </div>
 
