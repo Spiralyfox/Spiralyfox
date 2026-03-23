@@ -41,10 +41,8 @@ Systèmes : Windows Server / Hébergement local
     <td>
       <img src="https://streak-stats.demolab.com/?user=Spiralyfox&hide_border=true&background=1a1b27&stroke=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bf91f3&border_radius=12" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12&card_width=600" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=donut&langs_count=4&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12" />
     </td>
   </tr>
 </table>
