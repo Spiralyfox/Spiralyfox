@@ -29,11 +29,10 @@ Systèmes : Windows Server / Hébergement local
 
 ---
 
-## Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<!-- ─── Ligne 1 : Stats + Streak (table pour éviter le chevauchement) ─── -->
 <table>
   <tr>
     <td>
@@ -43,7 +42,20 @@ Systèmes : Windows Server / Hébergement local
       <img src="https://streak-stats.demolab.com/?user=Spiralyfox&hide_border=true&background=1a1b27&stroke=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=70a5fd&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bf91f3&border_radius=12" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12&card_width=600" />
+    </td>
+  </tr>
 </table>
+
+<!-- ─── Graphique d'activité ───────────────────────────────── -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=f7768e&area=true&hide_border=true" />
+
+<!-- ─── Trophées ────────────────────────────────────────────── -->
+<img src="https://github-profile-trophy.vercel.app/?username=Spiralyfox&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" />
+
+</div>
 
 <!-- ─── Ligne 2 : Langages ─────────────────────────────────────────────── -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12" />
