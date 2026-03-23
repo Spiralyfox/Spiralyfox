@@ -43,8 +43,8 @@ Systèmes : Windows Server / Hébergement local
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_title=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&border_radius=12&card_width=600" />
     </td>
   </tr>
 </table>
