@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://i.postimg.cc/PJn6Bp3B/Enkeli-Neptune-Glitch.jpg" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/sf5H5m11/Enkeli-Neptune-Trip.jpg">
 </p>
 
 <h1 align="center">Spiralyfox</h1>
@@ -45,3 +45,8 @@ Systèmes : Windows Server / Hébergement local
 
 Réseaux : @Spiralyfox  
 GitHub : https://github.com/Spiralyfox
+
+<!-- Bannière -->
+<p align="center">
+  <img src="https://i.postimg.cc/PJn6Bp3B/Enkeli-Neptune-Glitch.jpg" alt="Banner" width="100%">
+</p>
