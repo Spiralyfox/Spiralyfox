@@ -34,18 +34,25 @@ Systèmes : Windows Server / Hébergement local
 <div align="center">
 
 <!-- ─── Stats principales ───────────────────────────── -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Spiralyfox&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f778ba&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br><br>
 
-<!-- ─── Activity Graph (version stable alternative) ───────────────── -->
+<!-- ─── Activity Graph ───────────────────────────── -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=0d1117&color=58a6ff&line=f778ba&point=c9d1d9&area=true&hide_border=true" />
+
+<br><br>
+
+<!-- ─── Detailed Stats (remplace snake) ───────────────── -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spiralyfox&theme=github_dark" />
 
 <br>
 
-<!-- ─── Snake animation (ULTRA utilisé en 2026) ───────────────── -->
-<img width="100%" src="https://raw.githubusercontent.com/Spiralyfox/Spiralyfox/output/github-contribution-grid-snake-dark.svg" />
+<!-- ─── Extra cards (optionnel mais stylé) ───────────── -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spiralyfox&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spiralyfox&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spiralyfox&theme=github_dark" />
 
 </div>
 
