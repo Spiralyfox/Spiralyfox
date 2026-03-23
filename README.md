@@ -33,28 +33,48 @@ Systèmes : Windows Server / Hébergement local
 
 <div align="center">
 
-<!-- ─── Header clean ───────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Spiralyfox&fontColor=58a6ff&fontSize=40" />
+<!-- ─── Header ───────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Spiralyfox%20Analytics&fontColor=58a6ff&fontSize=35" />
 
 <br>
 
-<!-- ─── Badges stats simples (ultra stable) ───────────────── -->
+<!-- ─── Badges principaux ───────────────── -->
 <img src="https://img.shields.io/github/followers/Spiralyfox?style=for-the-badge&color=58a6ff&labelColor=0d1117" />
 <img src="https://img.shields.io/github/stars/Spiralyfox?style=for-the-badge&color=f778ba&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/Spiralyfox/Spiralyfox?style=for-the-badge&color=79c0ff&labelColor=0d1117" />
 
 <br><br>
 
-<!-- ─── Tech stack (beaucoup + moderne que stats) ───────── -->
-<img src="https://skillicons.dev/icons?i=python,html,js,css,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<!-- ─── Activity graph (on garde car stable) ───────── -->
+<!-- ─── Activity Graph ───────────────── -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Spiralyfox&bg_color=0d1117&color=58a6ff&line=f778ba&point=c9d1d9&area=true&hide_border=true" />
 
 <br><br>
 
-<!-- ─── Quote dynamique (remplace stats cassées) ───────── -->
+<!-- ─── Summary cards (ULTRA STABLE) ───────────────── -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spiralyfox&theme=github_dark" />
+
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spiralyfox&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spiralyfox&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spiralyfox&theme=github_dark" />
+
+<br><br>
+
+<!-- ─── Streak alternative (plus stable) ───────────────── -->
+<img width="49%" src="https://streak-stats.demolab.com?user=Spiralyfox&theme=dark&hide_border=true&background=0d1117&ring=f778ba&fire=f778ba&currStreakLabel=58a6ff" />
+
+<!-- ─── Commits / repos insights ───────────────── -->
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Spiralyfox&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+<br><br>
+
+<!-- ─── Metrics avancées (très stylé) ───────────────── -->
+<img width="100%" src="https://metrics.lecoq.io/Spiralyfox?template=classic&config.timezone=Europe/Paris&languages=1&isocalendar=1&habits=1&activity=1&lines=1&followup=1&achievements=1&introduction=1&repositories=1" />
+
+<br><br>
+
+<!-- ─── Dev quote (remplissage intelligent) ───────────────── -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
