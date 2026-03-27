@@ -29,12 +29,11 @@ Systèmes : Windows Server / Hébergement local
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
 <!-- ─── Badges ───────────────────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=Spiralyfox&style=for-the-badge&color=7aa2f7" />
 <img src="https://img.shields.io/github/followers/Spiralyfox?style=for-the-badge&color=bb9af7" />
 <img src="https://img.shields.io/github/stars/Spiralyfox?affiliations=OWNER&style=for-the-badge&color=f7768e" />
 
