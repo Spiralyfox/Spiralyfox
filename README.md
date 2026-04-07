@@ -49,7 +49,7 @@ Systèmes : Windows Server / Hébergement local
 </table>
 
 <!-- ─── Langages ─────────────────────────────────────────── -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spiralyfox&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&border_radius=12&card_width=600" />
+HS
 
 <br><br>
 
