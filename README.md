@@ -23,9 +23,13 @@ Je m’intéresse aussi à la production musicale et aux expérimentations autou
 ## Stack & Technologies
 
 Langages maîtrisés : Java, Python, C#, HTML, CSS, JavaScript, php, SkriptMC
+<br>
 Environnements : XAMPP, Apache, MySQL
+<br>
 Outils : Git, GitHub, VS Code, Antigravity, Suite Jetbrains, VirtualBox
+<br>
 Systèmes : Windows Server / Hébergement local / Linux
+<br>
 
 ---
 
