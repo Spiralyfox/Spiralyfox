@@ -66,6 +66,7 @@ HS
 
 ## Contact
 
+Linkedin : [Linkedin de Mattéo DAURIAC](https://www.linkedin.com/in/matt%C3%A9o-dauriac-31264334b/)
 Réseaux : @Spiralyfox  
 GitHub : https://github.com/Spiralyfox
 
