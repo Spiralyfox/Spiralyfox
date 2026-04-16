@@ -43,17 +43,19 @@ Systèmes : Windows Server / Hébergement local / Linux
 
 <br><br>
 
-<!-- ─── Stats + Streak ───────────────────────────────────── -->
 <table>
 <tr>
-<td>
+<td align="center">
+<b>Activity</b><br>
 <img src="https://streak-stats.demolab.com?user=Spiralyfox&hide_border=true&background=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bb9af7&border_radius=12" />
+</td>
+
+<td align="center">
+<b>Languages</b><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiralyfox&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
-
-<!-- ─── Langages ─────────────────────────────────────────── -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiralyfox&layout=compact&theme=tokyonight)
 
 <br><br>
 
