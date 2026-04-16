@@ -53,7 +53,7 @@ Systèmes : Windows Server / Hébergement local / Linux
 </table>
 
 <!-- ─── Langages ─────────────────────────────────────────── -->
-HS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiralyfox&layout=compact&theme=tokyonight)
 
 <br><br>
 
@@ -67,7 +67,9 @@ HS
 ## Contact
 
 Linkedin : [Linkedin de Mattéo DAURIAC](https://www.linkedin.com/in/matt%C3%A9o-dauriac-31264334b/)
-Réseaux : @Spiralyfox  
+<br>
+Réseaux : @Spiralyfox
+<br>
 GitHub : https://github.com/Spiralyfox
 
 <!-- Bannière -->
