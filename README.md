@@ -52,7 +52,7 @@ Systèmes : Windows Server / Hébergement local / Linux
 
 <td align="center">
 <b>Languages</b><br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spiralyfox&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spiralyfox&layout=compact" />
 </td>
 </tr>
 </table>
